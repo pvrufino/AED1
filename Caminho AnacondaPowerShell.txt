@@ -1,0 +1,10 @@
+Abrir prompto do Anaconda power shell
+
+Mudar diretorio de Suporte para alunos:
+Passo a passo:
+
+1° escreve: cd..
+
+2° escreve: cd Alunos
+
+3° escreve: cd Desktop
