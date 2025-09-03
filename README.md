@@ -1,2 +1,2 @@
 # AED1
-Local de Armazenamento dos arquivos produzidos na disciplina do curso de CDN da FATEC Votorantim
+Local de Armazenamento dos arquivos produzidos na disciplina AED1 do curso de CDN da FATEC Votorantim
