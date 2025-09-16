@@ -8,3 +8,9 @@ Passo a passo:
 2° escreve: cd Alunos
 
 3° escreve: cd Desktop
+
+cria a pasta > copia o endereço
+
+cd + "ctrl V"
+
+digitar jupyter notebook e aperta enter
