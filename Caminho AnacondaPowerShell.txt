@@ -9,7 +9,7 @@ Passo a passo:
 
 3° escreve: cd Desktop
 
-cria a pasta > copia o endereço
+cria a pasta > aula0X copia o endereço
 
 cd + "ctrl V"
 
